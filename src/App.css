@@ -1,0 +1,183 @@
+
+
+
+
+/*.App {*/
+/*  width: 600px;*/
+/*  margin: 20px auto;*/
+/*  display: block;*/
+/*  color: darkslateblue;*/
+/*}*/
+
+
+/*.active {*/
+/*  color: gold;*/
+/*}*/
+
+/*.AccordionTitle {*/
+/*  color: cornflowerblue;*/
+/*}*/
+
+/*.span {*/
+/*  color: black;*/
+/*}*/
+
+/*.button{*/
+/*  border: 2px solid whitesmoke;*/
+/*  border-radius: 15px ;*/
+/*  padding: 10px;*/
+/*  background-color: cornflowerblue;*/
+/*  margin-top: auto;*/
+/*}*/
+
+/*body {*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*  color: white;*/
+/*  display: flex;*/
+/*  align-items: center;*/
+/*  justify-content: center;*/
+/*  min-height: 100vh;*/
+/*  font-family: Poppin, sans-serif;*/
+/*  background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);*/
+/*}*/
+
+/*.Counter {*/
+/*  width: 450px;*/
+/*  height: 250px;*/
+/*  border: 2px solid deepskyblue;*/
+/*  color: deepskyblue;*/
+/*  text-align: center;*/
+/*  margin-top: -300px;*/
+
+/*}*/
+
+/*.Counter2 {*/
+/*  width: 450px;*/
+/*  height: 250px;*/
+/*  border: 4px solid deepskyblue;*/
+/*  margin-top: -260px;*/
+/*  margin-top: 400px;*/
+
+/*}*/
+/*.Counter3 {*/
+/*  width: 250px;*/
+/*  height: 70px;*/
+/*  border: 2px solid deepskyblue;*/
+/*  color: deepskyblue;*/
+/*  text-align: center;*/
+/*  margin-top: -555px;*/
+/*  margin-left: 80px;*/
+/*}*/
+
+/*.input {*/
+/*  border: 2px solid deepskyblue;*/
+/*  border-radius: 7px;*/
+/*  padding: 5px;*/
+/*  margin-top: 5px;*/
+/*  outline: none;*/
+/*}*/
+
+
+/*.active {*/
+/*  color: red;*/
+
+/*}*/
+/*.Max {*/
+/*  border-radius: 7px;*/
+/*  padding: 25px;*/
+/*}*/
+/*.Min {*/
+/*  margin-top: 55px;*/
+/*  border-radius: 7px;*/
+
+/*}*/
+/*.btn {*/
+/*  width: 250px;*/
+/*  height: 70px;*/
+/*  border: 2px solid deepskyblue;*/
+/*  color: deepskyblue;*/
+/*  text-align: center;*/
+/*  margin-top: -400px;*/
+/*  margin-left: 80px;*/
+/*}*/
+/*.btn1 {*/
+/*  width: 100px;*/
+/*  height: 40px;*/
+/*  border: 2px solid deepskyblue;*/
+/*  color: deepskyblue;*/
+/*  text-align: center;*/
+/*  margin-top: 15px;*/
+
+/*}*/
+
+/*.btn2 {*/
+/*  width: 250px;*/
+/*  height: 50px;*/
+/*  border: 2px solid deepskyblue;*/
+/*  color: deepskyblue;*/
+/*  text-align: center;*/
+/*  margin-top: 350px;*/
+/*  margin-left: 0px;*/
+/*}*/
+/*.Inc {*/
+/*  margin: 15px;*/
+
+/*}*/
+/*.max {*/
+/*  padding: 10px;*/
+/*}*/
+/*.start {*/
+/*  padding: 10px;*/
+/*}*/
+/*.menu {*/
+/*  width: 950px;*/
+/*  height: 450px;*/
+/*  border: 4px solid deepskyblue;*/
+/*  margin-top: -260px;*/
+/*  margin-top: 400px;*/
+
+/*}*/
+
+.App {
+    width: 600px;
+    height: 450px;
+    margin-left: 400px;
+    margin-top: 100px;
+    justify-content: center;
+    color: white;
+    display: block;
+    border: 6px solid deepskyblue;
+    border-radius: 6px;
+
+}
+
+.display {
+    height: 150px;
+    border: 4px solid deepskyblue;
+    margin: 20px 20px 20px 20px;
+    border-radius: 6px;
+
+
+}
+.button {
+    margin: 150px 0px 0px 70px;
+
+}
+.button1 {
+    width: 150px;
+    height: 50px;
+    border: 4px solid deepskyblue;
+    margin: 100px 0px 0px 0px;
+    border-radius: 6px;
+    background-color: cornflowerblue;
+}
+
+.button2 {
+    width: 150px;
+    height: 50px;
+    border: 4px solid deepskyblue;
+    margin: 0px 0px 0px 100px;
+    border-radius: 6px;
+    background-color: cornflowerblue;
+}
